@@ -1,7 +1,7 @@
 === BINARY SEARCH ===
 
 Binary search is a search algorithm that divide and conquer the problem into smaller chunks.
-Binary search and many search algorithm only works if the date is already sorted.
+Binary search and many search algorithm only works if the data is already sorted.
 
 #### How it Works
 1. The algorithm determine the first element and the last element of an array
